@@ -1,6 +1,6 @@
 # Python for Data Science
 
-This repository contains python codes which is used on day-to-day basis of a data scientist
+This repository contains python codes which is used on a daily basis in Data Science projects.
 
 Topics:
 
