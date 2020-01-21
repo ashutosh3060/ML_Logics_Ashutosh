@@ -12,5 +12,5 @@ Topics:
 6. User Defined Functions
 7. Miscalleneous
 
-#### Keep Coding
+#### Happy Coding
 
