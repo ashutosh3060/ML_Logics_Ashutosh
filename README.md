@@ -10,7 +10,7 @@ Topics:
 4. Visualisation
 5. ML Algorithms
 6. User Defined Functions
-7. Miscalleneous
+7. Miscellaneous
 
 #### Happy Coding
 
