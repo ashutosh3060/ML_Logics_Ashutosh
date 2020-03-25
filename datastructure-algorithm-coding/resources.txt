@@ -1,2 +1,1 @@
-# Codility Solutions
-https://github.com/jiadaizhao/LintCode/tree/master/1601-1700
+# Codility
