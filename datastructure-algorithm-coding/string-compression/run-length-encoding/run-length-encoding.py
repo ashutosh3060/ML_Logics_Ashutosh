@@ -9,5 +9,3 @@ def run_len_encode_str_compr (string):
         else:
             result.append([string[i], count])
             count = 1
-    for i in result:
-        print(i[0]+str(i[1]), end="")
