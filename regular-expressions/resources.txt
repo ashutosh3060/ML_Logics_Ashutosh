@@ -1,2 +1,5 @@
 # Resources
+https://www.dataquest.io/blog/regular-expressions-data-scientists/
 https://www.w3schools.com/python/python_regex.asp
+https://www.analyticsvidhya.com/blog/2020/01/4-applications-of-regular-expressions-that-every-data-scientist-should-know-with-python-code/
+
